@@ -12,7 +12,7 @@ Generate summaries from texts using Streamlit & HuggingFace Pipeline
 ## Running Instructions
 Clone the project
 ```bash
-  git clone (https://github.com/AnuragChowdhury/Document-Summarizer.git)
+  git clone https://github.com/AnuragChowdhury/Document-Summarizer.git
   ```
 
 Install `streamlit` and `transformers` with `pip`
