@@ -1,2 +1,5 @@
 *.png
 data.txt
+LICENSE
+setup.sh
+PROCFILE
